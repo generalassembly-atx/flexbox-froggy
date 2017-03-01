@@ -3,7 +3,7 @@
 For this homework we are going to be using Flexbox Froggy to practice Flexbox in CSS. The website can be found here:
 http://flexboxfroggy.com/
 
-In order to complete this homework you need to fork the repo and then take a screen shot of the highest level you can beat in the Flexbox Froggy application. Then place the screenshot in the folder and push it back up to GitHub.
+To complete this homework take a screen shot of the highest level you can beat in the Flexbox Froggy application. Then place the screenshot in the folder and push it back up to GitHub.
 
 If you need help with taking a screenshot:
 
