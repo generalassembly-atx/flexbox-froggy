@@ -6,7 +6,9 @@ http://flexboxfroggy.com/
 In order to complete this home you need to fork the repo and then take a screen shot of the highest level you can beat. Then place the screenshot in the folder and push it back up to GitHub.
 
 If you need help with taking a screenshot:
+
 Windows: https://www.take-a-screenshot.org/windows.html
+
 Mac: https://www.take-a-screenshot.org/mac.html
 
 ## Licensing
