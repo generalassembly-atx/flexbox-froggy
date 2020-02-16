@@ -1,0 +1,6 @@
+#pond {
+   display: flex;
+   /* Answer */
+   justify-content: space-around;
+   align-items: flex-end;
+}
